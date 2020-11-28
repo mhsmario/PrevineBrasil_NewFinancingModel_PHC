@@ -1,6 +1,8 @@
-# PrevineBrasil_NewFinancingModel_PHC
+# Previne Brasil New Financing Model of Brazil's Primary Healthcare
 This repo contains the main scripts used to build and analyze Brazil's the new primary health care (PHC) financing model - Previne Brasil.
 This readme file is a simple roadmap of the scripts used to build the Previne dataset using mostly public available data (sources below). The only private data source used refers to the number of registrations Q3/2019 (cadastros) by municipality received from the government.
+
+One output of this project is a shiny dashboard that allow users to browser the Previne dataset.
 
 ##How the dataset was built?
 
